@@ -40,32 +40,32 @@ const app = {
         {
             name: 'Last Christmas',
             singer: 'Ariana Grande',
-            path: '/assets/music/song1.mp3',
-            image: '/assets/img/song1.jpg'
+            path: './assets/music/song1.mp3',
+            image: './assets/img/song1.jpg'
         },
         {
             name: 'Play Date',
             singer: 'Melanie Martinez',
-            path: '/assets/music/song2.mp3',
-            image: '/assets/img/song2.jpg'
+            path: './assets/music/song2.mp3',
+            image: './assets/img/song2.jpg'
         },
         {
             name: 'Infinity',
             singer: 'Jaymes Young',
-            path: '/assets/music/song3.mp3',
-            image: '/assets/img/song3.jpg'
+            path: './assets/music/song3.mp3',
+            image: './assets/img/song3.jpg'
         },
         {
             name: 'Sunset II',
             singer: 'PinkHapless',
-            path: '/assets/music/song4.mp3',
-            image: '/assets/img/song4.jpg'
+            path: './assets/music/song4.mp3',
+            image: './assets/img/song4.jpg'
         },
         {
             name: 'Unstoppable',
             singer: 'Sia',
-            path: '/assets/music/song5.mp3',
-            image: '/assets/img/song5.jpg'
+            path: './assets/music/song5.mp3',
+            image: './assets/img/song5.jpg'
         }
     ],
 
